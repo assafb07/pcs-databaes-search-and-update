@@ -1,0 +1,7 @@
+
+Desktop - Big Box
+Desktop - Mid Box
+Desktop - Mini Box
+Laptop - Hp
+Laptop - Lenovo
+Other
